@@ -1,5 +1,6 @@
 <code_scheme name="FloodRe">
   <option name="RIGHT_MARGIN" value="150" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
