@@ -1,10 +1,7 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <version value="1.0" />
-      </component>
+      <component name="XcodeMetaData" SHOW_WORKSPACE_NOTIFICATIONS="true" />
     </defaultProject>
   </component>
 </application>
